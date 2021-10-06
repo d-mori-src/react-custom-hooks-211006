@@ -1,0 +1,11 @@
+{
+    "users": [
+      { "id": 2, "firstname": "Taro", "lastname": "Yamada", "age": 46 },
+      { "id": 1, "firstname": "Daisuke", "lastname": "Mori", "age": 39 }
+    ],
+    "posts": [
+      { "id": 3, "userId": 1, "title": "今日の天気", "content": "今日はいい天気です。" },
+      { "id": 2, "userId": 2, "title": "こんにちは", "content": "Taroです。" },
+      { "id": 1, "userId": 1, "title": "こんにちは", "content": "初投稿です。" }
+    ]
+}
